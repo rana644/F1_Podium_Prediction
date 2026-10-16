@@ -1,10 +1,7 @@
-# Formula 1 Podium Prediction (ACL Milestone 1)
+# Formula 1 Podium Prediction
 
-**German University in Cairo, Advanced Computer Lab, Milestone 1**
-Team [team number]: [Member 1 – ID], [Member 2 – ID], [Member 3 – ID], [Member 4 – ID], [Member 5 – ID]
-
-- **Kaggle notebook:** [link to the public Kaggle notebook]
-- **Report:** `Milestone1_ACL_Report.pdf`
+**Advanced Computer Lab, Milestone 1**
+Team 23: Rana Ali – 58-11078, Abdelrahman Mohamed – 58-10649, Shahd Alaa – 58-22017, Amr Mostafa – 58-14976.
 
 ## The task
 
@@ -56,7 +53,7 @@ Data: [Formula 1 World Championship (1950–2024)](https://www.kaggle.com/datase
 ## How to run
 
 **On Kaggle (recommended):**
-1. Add the dataset `rohanrao/formula-1-world-championship-1950-2020` to the notebook.
+1. Add the dataset `Formula 1 World Championship (1950 - 2024)` to the notebook.
 2. Turn **Internet on**: the first cell installs `shap` and `lime`.
 3. Run **Save & Run All**. A full run takes about 80–100 minutes on Kaggle's CPU.
 
